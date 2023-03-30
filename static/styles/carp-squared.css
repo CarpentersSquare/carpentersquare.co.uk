@@ -26,7 +26,7 @@
 }
 
 #logo {
-    animation: fill-anim 2s ease forwards ;
+    animation: fill-anim 16s ease forwards ;
 }        
 
 #logo path {
@@ -37,14 +37,14 @@
 {
     stroke-dasharray: 2136;
     stroke-dashoffset: 2136;
-    animation: line-anim 8s ease forwards 0.1s;
+    animation: line-anim 16s ease forwards 1s;
 }
 
 #logo path:nth-child(2)
 {
     stroke-dasharray: 1255;
     stroke-dashoffset: 1255;
-    animation: line-anim 1s ease forwards;
+    animation: line-anim 4s ease forwards;
 }
 
 
